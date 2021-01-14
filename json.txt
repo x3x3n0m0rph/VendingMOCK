@@ -1,0 +1,72 @@
+{
+  "lines": [
+    {
+      "height": 100,
+      "width": 280,
+      "products": [
+        {
+          "id": 0,
+          "name": "Nestea",
+          "price": 50,
+          "count": 0,
+          "image": "/img/nestea.png"
+        },
+        {
+          "id": 1,
+          "name": "Sprite",
+          "price": 50,
+          "count": 5,
+          "image": "/img/sprite.png"
+        },
+        {
+          "id": 2,
+          "name": "Cola",
+          "price": 75,
+          "count": 10,
+          "image": "/img/cola.png"
+        },
+        {
+          "id": 3,
+          "name": "Bon Aqua",
+          "price": 30,
+          "count": 2,
+          "image": "/img/bonaqua.png"
+        },
+        {
+          "id": 4,
+          "name": "Snickers",
+          "price": 55,
+          "count": 10,
+          "image": "/img/snickers.png"
+        }
+      ]
+    },
+    {
+      "height": 85,
+      "width": 280,
+      "products": [
+        {
+          "id": 5,
+          "name": "Korochki SMOKED",
+          "price": 100,
+          "count": 10,
+          "image": "/img/korochki.png"
+        },
+        {
+          "id": 6,
+          "name": "Marlboro",
+          "price": 150,
+          "count": 15,
+          "image": "/img/marlboro.png"
+        },
+        {
+          "id": 7,
+          "name": "Cb|PKOJlbAC",
+          "price": 75,
+          "count": 5,
+          "image": "/img/cheesesolyami.png"
+        }
+      ]
+    }
+  ]
+}
